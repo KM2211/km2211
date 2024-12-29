@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h3 align="left"> <i>Helloww I'm Kaushiki! </i>👋 I'm a tech enthusiast 💻 passionate about coding 👩‍💻 and exploring new technologies 🚀. I love solving problems 🧩, building efficient solutions, and learning 📚. Collaboration excites me 🤝, driving innovation and growth 🌱. Always eager to dive into new projects! 👾</h3>
+<h3 align="left"> <b><u>Helloww I'm Kaushiki! </u>👋 </b><i>I'm a tech enthusiast 💻 passionate about coding 👩‍💻 and exploring new technologies 🚀. I love solving problems 🧩, building efficient solutions, and learning 📚. Collaboration excites me 🤝, driving innovation and growth 🌱. Always eager to dive into new projects! 👾</i></h3>
 
 ###
 
