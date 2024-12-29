@@ -1,4 +1,6 @@
-<h2 align="left">Helloww 👋!!! I’m a tech enthusiast 💻 with a passion for coding 👩‍💻 and exploring new technologies 🚀. I enjoy solving problems 🧩, building efficient solutions, and continuously learning 📚. Working collaboratively excites me 🤝, as it leads to innovation and growth 🌱. Always eager to dive into new projects and expand my skills!👾</h2>
+<br clear="both">
+
+<h3 align="left"> <i>Helloww I'm Kaushiki! </i>👋 I'm a tech enthusiast 💻 passionate about coding 👩‍💻 and exploring new technologies 🚀. I love solving problems 🧩, building efficient solutions, and learning 📚. Collaboration excites me 🤝, driving innovation and growth 🌱. Always eager to dive into new projects! 👾</h3>
 
 ###
 
@@ -6,8 +8,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=km2211&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=km2211&locale=en&mode=daily&theme=cobalt&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=km2211&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=cobalt&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=km2211&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=km2211&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
